@@ -6,6 +6,6 @@ export default {
 	author: {
 		name: "Zaki Farhan",
 		email: "info@zakifarhan.com",
-		url: "https://zakifarhan.com"
+		url: "https://zakifarhan.com/blog/"
 	}
 }
